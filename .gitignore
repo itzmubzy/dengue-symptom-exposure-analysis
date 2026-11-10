@@ -26,6 +26,3 @@ Thumbs.db
 *.log
 executed_*.ipynb
 
-# Row-level survey data: keep local; retrieve raw CSV from the cited Mendeley record
-/data/raw/*.csv
-/data/processed/*.csv

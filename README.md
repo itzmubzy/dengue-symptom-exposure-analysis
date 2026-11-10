@@ -35,7 +35,7 @@ The project uses the original 1,018-row, 23-variable raw CSV, unchanged. The Men
 
 The source documentation says recorded outcomes were not independently verified against laboratory or clinical records, and does not specify test modality or illness day at testing. Dataset source notes and dictionary are in [`docs/`](docs/). The creator reports ethics approval, consent, and permission for public data sharing; signed documents are not in the public package. The creator also notes that combinations of age, gender, district, and area can be distinctive, including 198 singleton combinations among 327 in the cleaned data. This is a possible linkage concern, not proof of identification.
 
-For that reason, the row-level raw and processed CSVs are kept locally but ignored by Git. Download the licensed raw file from Mendeley into `data/raw/` before running the notebook. The local raw copy remains unchanged.
+The raw CSV and project working copy are included in this repository under CC BY 4.0 with source attribution. The original raw file is unchanged. The dataset creator reports permission for public data sharing and also notes possible linkage from distinctive age, gender, district, and area combinations; this is a privacy consideration even though the source dataset is publicly available.
 
 ## Method and data handling
 
@@ -53,7 +53,7 @@ The public source does not provide independent laboratory/clinical verification 
 
 ## Run the notebook
 
-From the repository root, download `Dengue_Raw_Research_Data_v1.csv` from the Mendeley source above into `data/raw/`. Then install the listed dependencies and start Jupyter:
+The raw CSV is included in `data/raw/`. From the repository root, install the listed dependencies and start Jupyter:
 
 ```bash
 python -m pip install -r requirements.txt

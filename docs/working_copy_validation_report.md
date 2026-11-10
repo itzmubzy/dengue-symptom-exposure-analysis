@@ -21,5 +21,5 @@ Validation was rerun from the restructured project using the final v3 notebook.
 
 The analytical temperature subset uses 99–106°F and has 1,002 records. That filter affects only the temperature comparison; it does not remove records from the raw or working dataset.
 
-The source creator also cautions that age/gender/district/area combinations may be distinctive. The raw and processed row-level CSVs are therefore kept locally and Git-ignored; a clone must retrieve the raw file from the cited Mendeley record.
+The source creator also cautions that age/gender/district/area combinations may be distinctive. The raw and processed CSVs are included in the repository at the user’s direction, with source attribution. The raw file hash above confirms it remains unchanged.
 
