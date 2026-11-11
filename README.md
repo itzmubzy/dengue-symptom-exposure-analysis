@@ -62,16 +62,7 @@ python -m jupyter notebook notebooks/Dengue_Symptom_and_Exposure_Analysis_v3.ipy
 
 Run cells from top to bottom. The notebook uses repository-relative paths, reads `data/raw/`, and writes the reproducible working copy to `data/processed/`.
 
-## Team contributions
 
-| Member | Suggested focus |
-|---|---|
-| 24-58809-2 | Coordination, project overview, and presentation integration |
-| 24-58816-2 | Dataset provenance and source attribution |
-| 24-58216-2 | Data dictionary, audit, and validation documentation |
-| 24-57300-2 | Research-question mapping and EDA communication |
-
-These are coordination areas; all four members should understand the complete notebook and findings for the individual viva.
 
 
 
