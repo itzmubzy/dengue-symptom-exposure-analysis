@@ -51,6 +51,17 @@ Within the specified 99–106°F comparison subset, median maximum recorded temp
 
 The public source does not provide independent laboratory/clinical verification of outcomes, test type, or test timing. The creator README reports hospital-based collection at Dhaka Medical College Hospital, but the detailed recruitment frame and population representativeness are not established; findings should not be generalized to Bangladesh as a whole. Temperature anomalies affect the temperature comparison, and survey responses can reflect reporting and measurement variation. The source creator identifies distinctive demographic/location combinations as a possible linkage concern. Results are exploratory associations in the available records.
 
+## Table 3. Team members and their contributions.
+| Member name | Student ID | Specific contribution to confirm |
+|---|---|---|
+| SAMIA AKTER | 24-58809-2 | Research problem formulation, objectives and methodology; fever duration and temperature analysis (RQ1) using Python; statistical summaries and visualization; temperature sensitivity analysis; project coordination, report integration and presentation preparation. |
+| MD SALEH ABID | 24-58816-2 | Dataset collection and provenance verification; source attribution, licensing and ethical considerations; dataset structure and exploratory analysis using Python; environmental and household exposure analysis (RQ4); percentage calculations, visualization and interpretation of findings. |
+| MD RYAN HAQUE JIM | 24-58216-2 | Data dictionary development; dataset inspection, missing-value analysis, duplicate and outlier detection; data validation and cleaning using Python and Pandas; pain severity and vomiting frequency analysis (RQ3); statistical comparisons and documentation of preprocessing decisions. |
+| K M MUBIN | 24-57300-2 | Research question mapping and exploratory data analysis (EDA); early dengue symptom analysis (RQ2) using Python; symptom frequency comparisons, data visualization and interpretation; review of overall analytical findings; GitHub documentation, notebook organization and reproducibility verification. |
+
+
+
+
 ## Run the notebook
 
 The raw CSV is included in `data/raw/`. From the repository root, install the listed dependencies and start Jupyter:
