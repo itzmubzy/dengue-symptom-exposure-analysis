@@ -6,8 +6,7 @@ Department of Data Science, American International University-Bangladesh (AIUB)
 A descriptive exploratory data analysis (EDA) of a public survey dataset (n = 1,018) that compares participants with a recorded
 dengue-positive and a recorded dengue-negative test result.
 
-**[Read the project report (PDF, 5 pages)](https://github.com/itzmubzy/dengue-symptom-exposure-analysis/blob/main/report/Dengue_Midterm_Project_Report.pdf)**
-| [Download the PDF](https://github.com/itzmubzy/dengue-symptom-exposure-analysis/raw/main/report/Dengue_Midterm_Project_Report.pdf)
+**[Read the project report (PDF, 5 pages)](https://github.com/itzmubzy/dengue-symptom-exposure-analysis/tree/main/dengue-symptom-exposure-analysis-main/report)**
 | [Open the notebook](https://github.com/itzmubzy/dengue-symptom-exposure-analysis/blob/main/notebooks/Dengue_Symptom_and_Exposure_Analysis.ipynb)
 
 > **Scope.** The analysis is descriptive only. It does not diagnose dengue, establish causes, test statistical significance,
