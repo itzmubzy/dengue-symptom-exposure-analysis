@@ -7,7 +7,7 @@ A descriptive exploratory data analysis (EDA) of a public survey dataset (n = 1,
 dengue-positive and a recorded dengue-negative test result.
 
 **[Read the project report (PDF, 5 pages)](https://github.com/itzmubzy/dengue-symptom-exposure-analysis/tree/main/dengue-symptom-exposure-analysis-main/report)**
-| [Open the notebook](https://github.com/itzmubzy/dengue-symptom-exposure-analysis/blob/main/notebooks/Dengue_Symptom_and_Exposure_Analysis.ipynb)
+| [Open the notebook](https://github.com/itzmubzy/dengue-symptom-exposure-analysis/tree/main/dengue-symptom-exposure-analysis-main/notebooks)
 
 > **Scope.** The analysis is descriptive only. It does not diagnose dengue, establish causes, test statistical significance,
 > or estimate dengue prevalence in Bangladesh.
