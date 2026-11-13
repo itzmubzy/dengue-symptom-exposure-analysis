@@ -152,12 +152,12 @@ Listed in `requirements.txt`: pandas, numpy, matplotlib, seaborn and Jupyter.
 
 <!-- Confirm that each description matches the work the member actually completed before submitting. -->
 
-| Member | Student ID | Contribution |
+| Member |    Student ID    | Contribution |
 |---|---|---|
-| SAMIA AKTER | 24-58809-2 | RQ1 fever and temperature analysis (data filtering, sensitivity checks, descriptive statistics, boxplots); research problem, objectives and methods; report integration and review |
-| MD SALEH ABID | 24-58816-2 | Dataset provenance, licensing and ethics; exposure-category checks; RQ4 analysis (cross-tabulations, percentages, charts); sources and final report review |
-| MD RYAN HAQUE JIM | 24-58216-2 | Pain and vomiting variables; data dictionary; missing-value, duplicate, outlier and cleaning checks; RQ3 analysis; preprocessing documentation |
-| K M MUBIN | 24-57300-2 | Early-symptom variables; symptom summaries; RQ2 frequency and percentage comparisons and charts; notebook organisation, GitHub documentation and reproducibility review |
+| SAMIA AKTER |    24-58809-2    | RQ1 fever and temperature analysis (data filtering, sensitivity checks, descriptive statistics, boxplots); research problem, objectives and methods; report integration and review |
+| MD SALEH ABID |    24-58816-2    | Dataset provenance, licensing and ethics; exposure-category checks; RQ4 analysis (cross-tabulations, percentages, charts); sources and final report review |
+| MD RYAN HAQUE JIM |    24-58216-2    | Pain and vomiting variables; data dictionary; missing-value, duplicate, outlier and cleaning checks; RQ3 analysis; preprocessing documentation |
+| K M MUBIN |    24-57300-2    | Early-symptom variables; symptom summaries; RQ2 frequency and percentage comparisons and charts; notebook organisation, GitHub documentation and reproducibility review |
 
 ## References
 
